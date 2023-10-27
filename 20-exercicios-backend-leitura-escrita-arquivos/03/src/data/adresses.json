@@ -1,0 +1,26 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "50010-060",
+    "logradouro": "Rua Marquês do Recife",
+    "complemento": "",
+    "bairro": "Santo Antônio",
+    "localidade": "Recife",
+    "uf": "PE",
+    "ibge": "2611606",
+    "gia": "",
+    "ddd": "81",
+    "siafi": "2531"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "api-characters-dungeons-dragons",
+  "version": "1.0.0",
+  "description": "Vamos construir uma API que seja capaz de registrar, armazenar e extrair informacoes sobre personagens de `Dungeons and Dragons`",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon /sr/index"
+  },
+  "keywords": [],
+  "author": "Maycon Rocha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
